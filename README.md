@@ -1,4 +1,3 @@
 - Hi, I’m @vachsark
-- I’m interested in psychology and economics.
-- I’m currently learning data analytics tools like R, SQL, Excel, and Tableau.
-- I look forward to showcasing my projects here and learning from others in my journey to become a data analyst.
+- I am currently learning python and am trying to make some projects.
+- I don't really know what I'm going to be doing but this is fun.
